@@ -5,10 +5,10 @@
 Focando na criação de fluxos de conversa automatizados e personalizados para simular atendimentos interativos.
 ## 📚  Aprendi- a:
 
-- Criar e estruturar tópicos com base em intenções de usuário.
-- Sobre o armazenamento de dados com variáveis.
-- Utilizar variáveis para armazenar e reutilizar informações ao longo da conversa.
-- Realizei testes, para ajustes e refinamento da experiência conversacional.
+- Criar e customizar tópicos com base em intenções de usuário.
+- Sobre o armazenamento de informações com variáveis.
+- Utilizarr variáveis para personalizar e reutilizar mensagens ao longo da conversa.
+- Realizei testes, para ajustes e qualidade da experiência conversacional Gen Ai.
 
 ### 🛠️ Tecnologias
 
