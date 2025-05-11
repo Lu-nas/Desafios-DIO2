@@ -1,7 +1,7 @@
  Desafios-DIO2
 # Copiloto com Fluxo de Conversa Personalizado 
 
-### 💡 Objetivo: desenvolver um copiloto personalizado utilizando o Microsoft Copilot Studio
+### 💡 Objetivo: Desenvolver um copiloto personalizado utilizando o Microsoft Copilot Studio
 Focando na criação de fluxos de conversa automatizados e personalizados para simular atendimentos interativos.
 ## 📚  Aprendi- a:
 
